@@ -1,6 +1,6 @@
 # SCISeg: Automatic Segmentation of T2-weighted Intramedullary Lesions in Spinal Cord Injury
 
-[![medRxiv](https://img.shields.io/badge/medRxiv:SCIsegV1-10.1101/2024.01.03.24300794v2-blue.svg)](https://www.medrxiv.org/content/10.1101/2024.01.03.24300794v2.full.pdf) [![arXiv](https://img.shields.io/badge/arXiv:SCIsegV2-2407.17265-b31b1b.svg)](https://doi.org/10.48550/arXiv.2407.17265)
+[![medRxiv](https://img.shields.io/badge/medRxiv:SCIsegV1-10.1148/ryai.240005-blue.svg)](https://doi.org/10.1148/ryai.240005) [![arXiv](https://img.shields.io/badge/arXiv:SCIsegV2-2407.17265-b31b1b.svg)](https://doi.org/10.48550/arXiv.2407.17265)
 
 This repository contains the code for deep learning-based segmentation of the spinal cord and intramedullary lesions in spinal cord injury (SCI). The code is based on the [nnUNetv2 framework](https://github.com/MIC-DKFZ/nnUNet).
 
@@ -75,14 +75,11 @@ If you find this work and/or code useful for your research, please cite our pape
 ```
 @article {Naga Karthik2024.01.03.24300794,
 	author = {Enamundram Naga Karthik* and Jan Valosek* and Andrew C. Smith and Dario Pfyffer and Simon Schading-Sassenhausen and Lynn Farner and Kenneth A. Weber II and Patrick Freund and Julien Cohen-Adad},
-	title = {SCIseg: Automatic Segmentation of T2-weighted Intramedullary Lesions in Spinal Cord Injury},
-	elocation-id = {2024.01.03.24300794},
-	year = {2024},
-	doi = {10.1101/2024.01.03.24300794},
-	publisher = {Cold Spring Harbor Laboratory Press},
-	URL = {https://www.medrxiv.org/content/early/2024/04/21/2024.01.03.24300794},
-	eprint = {https://www.medrxiv.org/content/early/2024/04/21/2024.01.03.24300794.full.pdf},
-	journal = {medRxiv},
+	title = {SCIseg: Automatic Segmentation of Intramedullary Lesions in Spinal Cord Injury on T2-weighted MRI Scans},
+	year = {2025},
+	doi = {10.1148/ryai.240005},
+	URL = {https://doi.org/10.1148/ryai.240005},
+	journal = {Radiology: Artificial Intelligence},
 	note = {*Shared first authorship}
 }
 ```
